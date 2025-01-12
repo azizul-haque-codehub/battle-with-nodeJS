@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+	</head>
+	<body>
+		<div class="max-w-screen-md mx-auto px-4 mt-2">
+			<h1 class="text-3xl font-bold md:text-5xl">
+				Why do we need Node.js &amp; how is it different from JS in browser?
+			</h1>
+			<p class="mt-4">
+				Node.js extends the capabilities of JavaScript beyond what is possible
+				when running JavaScript solely in a browser environment. Here's what
+				Node.js can do that normal JavaScript cannot, which makes it suitable
+				for building backends.
+			</p>
+			<div>
+				<h2 class="text-xl font-bold md:text-2xl mt-6 mb-3">
+					Access to File System
+				</h2>
+				<ul class="list-disc pl-8 space-y-3">
+					<li>
+						<strong class="font-bold">Node.js</strong>: Provides APIs to
+						interact with the file system, allowing you to read, write, delete,
+						and manipulate files and directories on the server.
+					</li>
+					<li>
+						<strong class="font-bold">Normal JavaScript</strong>: In a browser,
+						JavaScript is sandboxed for security reasons, meaning it cannot
+						directly access the file system of the client device.
+					</li>
+				</ul>
+				<h2 class="text-xl font-bold md:text-2xl mt-6 mb-3">
+					Networking Capabilities
+				</h2>
+				<ul class="list-disc pl-8 space-y-3">
+					<li>
+						<strong class="font-bold">Node.js</strong>: Enables the creation of
+						web servers, handles network requests, and supports low-level
+						networking features like creating TCP/UDP servers, handling sockets,
+						etc.
+					</li>
+					<li>
+						<strong class="font-bold">Normal JavaScript</strong>: In the
+						browser, JavaScript can make HTTP requests (via fetch or
+						XMLHttpRequest), but it cannot create servers or handle low-level
+						networking tasks.
+					</li>
+				</ul>
+				<h2 class="text-xl font-bold md:text-2xl mt-6 mb-3">
+					Process Management
+				</h2>
+				<ul class="list-disc pl-8 space-y-3">
+					<li>
+						<strong class="font-bold">Node.js</strong>: Can spawn child
+						processes, manage multiple threads, and handle system-level tasks
+						like interacting with operating system processes.
+					</li>
+					<li>
+						<strong class="font-bold">Normal JavaScript</strong>: In the
+						browser, JavaScript is limited to running in a single thread and
+						cannot spawn processes or directly interact with the operating
+						system.
+					</li>
+				</ul>
+				<h2 class="text-xl font-bold md:text-2xl mt-6 mb-3">
+					Interacting with Operating System
+				</h2>
+				<ul class="list-disc pl-8 space-y-3">
+					<li>
+						<strong class="font-bold">Node.js</strong>: Can interact with the
+						operating system to perform tasks like reading environment
+						variables, interacting with system processes, scheduling tasks, etc.
+					</li>
+					<li>
+						<strong class="font-bold">Normal JavaScript</strong>: In the
+						browser, JavaScript is sandboxed and cannot interact with the
+						operating system directly, limiting its capabilities to
+						browser-related tasks.
+					</li>
+				</ul>
+				<h2 class="text-xl font-bold md:text-2xl mt-6 mb-6">And more...</h2>
+			</div>
+		</div>
+	</body>
+</html>
