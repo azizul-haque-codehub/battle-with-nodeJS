@@ -1,1 +1,15 @@
- 
+Read = r = 4
+write = w = 2
+Execute = 1 = 1
+All = a = 7
+Deny = - = 0
+
+Git Permission Workflow
+# Scenario: Make a script executable and commit the change
+chmod +x script.sh       # Change permission on the filesystem
+git add script.sh        # Stage the file (Git detects permission change)
+git commit -m "Make script executable"
+
+# Alternative: Use Git directly to update the index's executable bit
+git update-index --chmod=+x script.sh
+git commit -m "Make script executable"
