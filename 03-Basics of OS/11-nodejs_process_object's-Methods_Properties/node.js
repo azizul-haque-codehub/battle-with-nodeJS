@@ -22,3 +22,5 @@ fs.readdir(dirPath, { withFileTypes: true }, (err, files) => {
     }
   });
 });
+
+console.log("NOdeJS pre-requisite done");
