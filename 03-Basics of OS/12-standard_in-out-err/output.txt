@@ -1,0 +1,3 @@
+Your given input : hi
+
+Your given input : wowo output going on redirect pipe
