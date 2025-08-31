@@ -1,0 +1,50 @@
+ভাই, দারুণ observation!
+এই জিনিসটা আসলে Node.js আর Browser environment এর মধ্যে global scope কিভাবে define হয় – সেটার কারণে।
+
+ধরা যাক এই কোড লিখছো 👇
+
+var a = 10;
+console.log(this.a);
+
+🔹 Browser এ:
+
+Browser এ global scope = window object
+
+var দিয়ে global scope এ কিছু declare করলে সেটা window এর property হয়ে যায়
+
+তাই browser এ this === window (global scope এ)
+
+এজন্য this.a ঠিকমতো 10 দেখাবে।
+
+🔹 Node.js এ:
+
+Node.js এ global object হল global (browser এর window এর মতো)।
+
+কিন্তু var দিয়ে declare করলে সেটা global এ add হয় না।
+
+Node.js প্রতিটা ফাইলকে module হিসেবে ধরে, আর সেই module এর ভিতরে scope আলাদা (local)।
+
+তাই this ফাইল লেভেলে global না হয়ে থাকে empty object ({}) (CommonJS module system এর কারণে)।
+
+এজন্য this.a undefined দেখায়।
+
+তুলনা করে দেখাই 👇
+Browser (console এ):
+var a = 10;
+console.log(window.a); // 10
+console.log(this.a);   // 10 (কারণ this === window)
+
+Node.js (file এ চালালে):
+var a = 10;
+console.log(global.a); // undefined
+console.log(this.a);   // undefined (কারণ this === module.exports, global নয়)
+
+
+✅ যদি Node.js এ চাই global এর property হিসেবে set হোক, তাহলে লিখতে হবে:
+
+global.a = 10;
+console.log(global.a); // 10
+
+
+তাহলে সংক্ষেপে:
+Browser এ var global হলে window এর সাথে bind হয়, কিন্তু Node.js এ প্রতিটা ফাইল module-scope এ রান করে, তাই var শুধু ওই ফাইলের local থাকে।
