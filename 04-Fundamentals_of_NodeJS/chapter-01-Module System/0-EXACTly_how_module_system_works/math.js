@@ -5,4 +5,5 @@ function multi(a, b) {
   return a * b;
 }
 
-module.exports = { add, multi };
+send.add = add;
+send.multi = multi

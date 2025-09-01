@@ -22,28 +22,28 @@ console.log(add(120,120),multi(10,12)); */
 
 console.log("Appjs first line executed");
 
-const { add, multi } = require("./math");
+// const { add, multi } = require("./math");
 /*
 -  const {add,multi} = require ("./math") whats happen in this line ? 
 
 */
 
 // below the require function written in inside nodeJS environment
-const fs = require("fs");
-(function (
-  exports,
-  require,
-  module,
-  __filename,
-  __dirname,
-) {
-  require(__filename);
-})(module.exports, require, module, __filename, __dirname);
 
-function require(path) {
+function my_require(path) {
+  const fs = require("fs");
   const moduleCode = fs.readFileSync(path).toString();
+  const send = {};
   eval(moduleCode);
+  //   return module.exports
+  // if we want to replace the exports obj to send obj
+  return send;
 }
 
+const { add, multi } = my_require("./math.js");
 
-console.log(multi(10, 10));
+console.log(multi(12, 12));
+
+const {toUppercase} = my_require("./utils.js")
+
+console.log(toUppercase("abcefghi lajasfdlkaj f"));
