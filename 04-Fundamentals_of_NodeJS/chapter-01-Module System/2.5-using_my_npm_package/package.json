@@ -1,0 +1,7 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "xxxyzxx": "^1.0.0"
+  }
+}
