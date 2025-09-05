@@ -1,13 +1,9 @@
 {
   
-  "scripts": {
-  
-    
+  "scripts": {    
   "test": "pwd",
-  
-    
-  "watch": "node --watch app.js"
-  
+  "watch": "node --watch app.js",
+  "toknow":"how does this scripts run ? as a command ? but how execute on powershell,command cmd"
   },
   
   "dependencies": {

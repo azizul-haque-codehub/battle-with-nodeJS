@@ -1,6 +1,6 @@
-console.log("hi hter");
+console.log("hi there");
 
-/* "1.0.0" -> its called semantic versioning 
+/* version "1.0.0" -> its called semantic versioning 
 1st portion 1 = Major
 2nd portion 0 = Minor
 3rd portion 0 = Patch
