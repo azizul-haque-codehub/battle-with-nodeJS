@@ -1,0 +1,12 @@
+1.exactly how module system works in programming
+2.node env vs browser env & Global object behaiver on commonJS module system vs ES module
+3.commonJS module system in node (old version which usages a mind-blowing technique (Module wrapper function))
+4.commonJS (module object)
+5.ES6 Module system
+6.commonJS module vs ES6 module system execution/working differences
+7.Various types of Module local(working package, Global package) , npm module , yarn module
+8.NPM modules/packages
+9.package.json file
+10.Shebang
+11.NPX
+12.Basics node core fs modules
