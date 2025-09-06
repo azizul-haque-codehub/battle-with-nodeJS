@@ -1,5 +1,5 @@
-#!/usr/bin/env filereader
-
+#!/usr/bin/env app
+ 
 -------------- Shebang --------------
  
 In order to execute/run a bash script file with the bash shell interpreter, the first line of a script file must indicate the absolute path to the bash executable:

@@ -2,10 +2,7 @@
   "name": "filereader",
   "bin": "app.js",
   "type":"module",
-  "scripts": {
-    "build": "pkg -t node16-linux-x64 ."
-  },
-  "devDependencies": {
-    "pkg": "^5.8.1"
+ "scripts": {
+    "build":"pkg -t node18-linux-x64 app.js"
   }
 }
