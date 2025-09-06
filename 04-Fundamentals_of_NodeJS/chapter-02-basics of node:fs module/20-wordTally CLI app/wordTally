@@ -1,13 +1,17 @@
 #! /usr/bin/env node
 import fs from "node:fs/promises";
-const filePath = process.argv[2];
+const [nodeLocation, currentDir, filePath, word] = process.argv;
 
 const content = await fs.readFile(filePath, "utf-8");
 const wordArray = content.split(/[ ,.'’\-\/\r\n]+/);
 
 const output = {};
 wordArray.forEach((word, indx, arr) => {
-  word in output ? (output[word] = output[word] + 1) : (output[word] = 1);
+  word in output ? (output[word] += 1) : (output[word] = 1);
 });
 
-console.table(output);
+!word
+  ? console.table(output)
+  : word in output
+  ? console.table(`${word}: ${output[word]}`)
+  : console.error("Sorry , Word not found");
