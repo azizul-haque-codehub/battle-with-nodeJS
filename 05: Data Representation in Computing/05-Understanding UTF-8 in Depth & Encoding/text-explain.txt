@@ -1,0 +1,20 @@
+ 
+ (এখানে `x` হলো **`কোডপয়েন্টের`** bit)
+- 1 byte: `0xxxxxxx` -Here 7 bits are actual bits for character
+  A = 100 0001 , actual  7 bits
+      0100 0001 = UTF-8 bits
+      0xxx xxxx  = UTF-8 bits Pattern
+
+- 2 byte: `110xxxxx 10xxxxxx` -Here 11 bits are actual bits for character
+   ١ = 11001100001 , actual bits
+      11011001 10100001 = UTF-8 bits
+      110xxxxx 10xxxxxx = UTF-8 bits Pattern
+
+- 3 byte: `1110xxxx 10xxxxxx 10xxxxxx` -Here 16 bits are actual bits for character
+
+
+- 4 byte: `11110xxx 10xxxxxx 10xxxxxx 10xxxxxx` -Here 21  bits are actual bits for character
+
+
+
+ 
