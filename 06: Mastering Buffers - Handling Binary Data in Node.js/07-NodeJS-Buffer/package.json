@@ -1,0 +1,5 @@
+{
+    "scripts":{
+"debug": "node --inspect-brk app.js"
+    }
+}
