@@ -22,9 +22,21 @@ new Uint8Array(buffer, byteOffset, length)
 
 // const uInt8 = new Uint8Array([0xfe,0xab,33,23])
 
-const uInt8 = new Uint8Array(1.99 * 1024 * 1024 * 1024);
-uInt8[0] = 0xff
-uInt8[1] = 0xfe
-uInt8[2] = 0xfd
+const uInt8 = new Uint8Array(8);
+uInt8[0] = 0xff;
+uInt8[1] = 0xfe;
+uInt8[2] = 0xfd;
 
-console.log(uInt8);
+// console.log(uInt8);
+
+const buf = new ArrayBuffer(4, { maxByteLength: 16 });
+
+console.log(buf.resizable); // false
+
+buf.resize(8)
+
+
+const lastBuf = buf.transfer()
+
+console.log(buf,lastBuf);
+console.log(buf.detached); // buf detached to lastBuf
