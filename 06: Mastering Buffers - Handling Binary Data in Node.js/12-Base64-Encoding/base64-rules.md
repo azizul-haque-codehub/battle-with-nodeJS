@@ -2,7 +2,7 @@
 
 Think of Base64 as a **6-bit mapping**:
 
-1. Input length must be multiple of `3`bytes, if not `=` added for make lenth as padding.
+1. Input length must be multiple of `3`bytes, if not `=` added for make length as padding.
 2. **Input** = binary stream 8-bit bytes.
 3. Split into groups of **3 bytes (24 bits)**.
     
