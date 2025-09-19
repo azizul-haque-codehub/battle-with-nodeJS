@@ -5,7 +5,7 @@ class MyEmitter {
 
   on(eventName, callback) {
     !this._events[eventName]
-      ? (this._events[eventName] = [])
+      ? (this._events[eventName] = [callback])
       : this._events[eventName].push(callback);
   }
 
