@@ -1,0 +1,554 @@
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+v
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+v- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+v- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+v- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+v- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data- CPU operations are focused on **processing data and instructions** that are already in `memory`.
+- **I/O (Input/Output) operations** involve **interaction with external devices** outside the CPU/memory boundary.
+I/O Examples__
+- Input: keyboard, mouse, microphone, sensors
+- Output: display, printer, speakers
+- Storage: disk (SSD/HDD), USB
+- Networking: sending/receiving data
+v
