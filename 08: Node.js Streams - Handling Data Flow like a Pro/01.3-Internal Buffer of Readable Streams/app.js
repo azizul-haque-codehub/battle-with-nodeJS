@@ -1,4 +1,4 @@
-import fs, { read } from "fs";
+import fs from "fs";
 
 const readStream = fs.createReadStream(
   "/home/azizul-haque/02-Programming/Software Engr./Backend/battle-with-nodeJS/08: Node.js Streams - Handling Data Flow like a Pro/01.3-Internal Buffer of Readable Streams/chars.txt",
