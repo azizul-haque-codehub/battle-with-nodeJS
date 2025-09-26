@@ -26,6 +26,7 @@ const server = net.createServer((socket) => {
 
   // Echo client input
   socket.on("data", (data) => {
+    console.log(data.buffer);
     socket.write("\n" + BLUE + "You typed: " + RESET + data.toString());
   });
 
