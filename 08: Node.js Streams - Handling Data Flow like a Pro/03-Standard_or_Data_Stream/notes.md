@@ -1,4 +1,4 @@
-**Standard Streams** আসলে একটা **convention/system** যেটা Operating System  use করে program/process আর user এর মধ্যে data আদান-প্রদানের জন্য।
+**Standard Streams** আসলে একটা **convention/system** যেটা Operating System  use করে process আর user এর মধ্যে data আদান-প্রদানের জন্য।
 
 ---
 
