@@ -13,4 +13,6 @@ const status =  readStream.pipe(writeStream)
 if(!status.flush){
     console.log("Done");
 }
- 
+//  const gitProcess = spawn("git",["add ."])
+//  console.log("hi",gitProcess);
+ spawn("git",["commit -m 'working with promise fs'"])
