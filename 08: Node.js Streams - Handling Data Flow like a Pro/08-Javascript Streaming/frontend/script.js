@@ -71,3 +71,91 @@ input.addEventListener("change", async () => {
 // }
 // const txt = await blob.text( );
 // console.log(txt);
+
+// async function playVideo() {
+//   const response = await fetch("http://localhost:4000");
+//   const reader = response.body.getReader();
+
+//   const chunks = [];
+//   while (true) {
+//     const { done, value } = await reader.read();
+//     if (done) break;
+//     chunks.push(value);
+//   }
+
+//   // merge all chunks into single blob
+//   const videoBlob = new Blob(chunks, { type: "video/webm" });
+
+//   // create object URL
+//   const videoURL = URL.createObjectURL(videoBlob);
+// console.log({chunks,videoBlob,videoURL});
+//   // set as video source
+//   const videoElement = document.getElementById("myVideo");
+//   videoElement.src = videoURL;
+//   videoElement.play();
+// }
+
+// playVideo();
+
+//  async function streamVideo() {
+//   const video = document.getElementById("myVideo");
+//   const mediaSource = new MediaSource();
+//   video.src = URL.createObjectURL(mediaSource);
+
+//   mediaSource.addEventListener("sourceopen", async () => {
+//     // Important: only add SourceBuffer when mediaSource is open
+//     let sourceBuffer;
+//     try {
+//       sourceBuffer = mediaSource.addSourceBuffer('video/webm; codecs="vp9"');
+//     } catch (e) {
+//       console.error("SourceBuffer init failed:", e);
+//       return;
+//     }
+
+//     const response = await fetch("http://localhost:4000");
+//     const reader = response.body.getReader();
+
+//     async function appendChunk(chunk) {
+//       return new Promise((resolve, reject) => {
+//         sourceBuffer.addEventListener("updateend", resolve, { once: true });
+//         sourceBuffer.addEventListener("error", reject, { once: true });
+//         sourceBuffer.appendBuffer(chunk);
+//       });
+//     }
+
+//     async function pump() {
+//       const { done, value } = await reader.read();
+//       if (done) {
+//         // সব chunk শেষ হলে
+//         if (mediaSource.readyState === "open") {
+//           mediaSource.endOfStream();
+//         }
+//         return;
+//       }
+
+//       try {
+//         await appendChunk(value);
+//       } catch (err) {
+//         console.error("appendBuffer failed:", err);
+//         return;
+//       }
+
+//       pump(); // next chunk
+//     }
+
+//     pump();
+//   });
+// }
+
+// streamVideo();
+// console.time();
+// const response = await fetch("http://localhost:4000");
+// const data = await response.text();
+// console.log(data);
+// console.timeEnd(); // time : 57ms
+console.time();
+const response = await fetch("http://localhost:4000");
+for await (const chunk of response.body) {
+  console.log(chunk);
+}
+console.timeEnd(); // time : 57ms
